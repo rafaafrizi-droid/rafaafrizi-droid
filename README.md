@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rafa 👋
 
-<!--
-**rafaafrizi-droid/rafaafrizi-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent Developer passionate about AI, Cloud Computing, and Open Source Technologies.
 
-Here are some ideas to get you started:
+## 🚀 Areas of Interest
+- Artificial Intelligence
+- Cloud Infrastructure
+- GPU Computing
+- Workflow Automation
+- Open Source Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- Python
+- JavaScript
+- Linux
+- Docker
+- Git
+
+## 📚 Currently Exploring
+- AMD ROCm
+- Large Language Models
+- Distributed Systems
+- GPU Acceleration
+
+## 📌 Featured Projects
+- AI Experiments
+- Cloud Infrastructure Labs
+- Automation Utilities
+- Performance Benchmarking
+
+## 🎯 Goal
+Build practical software, learn emerging technologies, and contribute to open-source projects.
